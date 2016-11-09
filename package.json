@@ -1,0 +1,26 @@
+{
+    "name": "sudoku-js",
+    "version": "0.1.0",
+    "description": "A sudoku solver in NodeJS",
+    "main": "lib/sudoku.js",
+    "scripts": {
+        "test": "node ./examples/example1.js"
+    },
+    "author": "vincentchan <hci.vincentchan@gmail.com> (https://github.com/VincentChanX)",
+    "license": "BSD-3-Clause",
+    "directories": {
+        "example": "examples"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VincentChanX/sudoku-js.git"
+    },
+    "keywords": [
+        "sudoku",
+        "solver"
+    ],
+    "bugs": {
+        "url": "https://github.com/VincentChanX/sudoku-js/issues"
+    },
+    "homepage": "https://github.com/VincentChanX/sudoku-js#readme"
+}
